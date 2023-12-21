@@ -56,7 +56,7 @@
 - [I am presently working on investigating malware threat](here)
 
 
-<b><h2>🤳📩Connect with me</h2></b> 
+<b><h2>🤳📩Connect With Me</h2></b> 
 [![Linkedin](https://img.shields.io/badge/Olabisi%20Olajide-blue?style=flat-square&logo=Linkedin&label=Linkedin)](https://www.linkedin.com/in/bayulus/)
 [![Gmail](https://img.shields.io/badge/olajideolabisia%40gmail.com-blue?style=flat-square&logo=Gmail&label=Gmail)](mailto:olajideolabisia@gmail.com)
 [![Gmail](https://img.shields.io/badge/Olabisi%20Olajide-blue?style=flat-square&logo=twitter&label=Twitter)](https://twitter.com/realbayulus)
