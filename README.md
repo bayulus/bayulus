@@ -45,7 +45,7 @@
 <h2>💻🔐Cybersecurity Projects:</h2>
 
 - <b>DevSecOps: Integrating Security Testing Into The Software Development Lifecycle</b>
-  -  [DevSecOps Pipeline Using AWS Cloud Infrastrusture](www.urlhere.com)
+  -  [DevSecOps Pipeline Using AWS Cloud Infrastrusture](https://github.com/bayulus/devsecops-jenkins-aws)
 -  <b>Creating a Security Operations Center (SOC) With a Honeynet In Azure to Analyze Live Traffic</b>
    - [DevSecOps Pipeline Using AWS Cloud Infrastrusture](www.urlhere.com)
 -  <b>Investigating Email Threat</b>
