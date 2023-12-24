@@ -50,12 +50,13 @@
    - [Creating Honeynet Using Azure Sentinel](www.urlhere.com)
 -  <b>Investigating Email Threat</b>
    - [Analyzing Phishing Email](www.urlhere.com) (<i>Cyberchef, AbuseIPDB, MxLookUp, RerverseDNSLookup, SPF & DKIM Check, Proofpoint</i>)
+- **Threat Intelligence Analysis**
 
 <h2>💫🖥️Incident Response Projects </h2>
 
 - [I am presently working on investigating malware threat](here)
 
-<h2>Threat Intelligence Analysis</h2>
+
 
 
 <b><h2>🤳📩Connect With Me</h2></b> 
