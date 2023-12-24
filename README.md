@@ -55,6 +55,8 @@
 
 - [I am presently working on investigating malware threat](here)
 
+<h2>Threat Intelligence Analysis</h2>
+
 
 <b><h2>🤳📩Connect With Me</h2></b> 
 [![Linkedin](https://img.shields.io/badge/Olabisi%20Olajide-blue?style=flat-square&logo=Linkedin&label=Linkedin)](https://www.linkedin.com/in/bayulus/)
