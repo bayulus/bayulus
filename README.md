@@ -40,16 +40,16 @@
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&labelColor=%23f6f6f6)
 ![Static Badge](https://img.shields.io/badge/ISO%2027001-blue?style=flat-square&labelColor=%23f6f6f6)
 
-<!-- Here is where My project done starts from -->
+<!-- Here is where My project starts from -->
 
 <h2>💻🔐Cybersecurity Projects:</h2>
 
 - <b>DevSecOps: Integrating Security Testing Into The Software Development Lifecycle</b>
   -  [DevSecOps Pipeline Using AWS Cloud Infrastrusture](https://github.com/bayulus/devsecops-jenkins-aws)
 -  <b>Creating a Security Operations Center (SOC) With a Honeynet In Azure to Analyze Live Traffic</b>
-   - [Creating Honeynet Using Azure Sentinel](www.urlhere.com)
+   - [Creating Honeynet Using Azure Sentinel](https://github.com/bayulus/azure-honeynet-livetraffic.git)
 -  <b>Investigating Email Threat</b>
-   - [Analyzing Phishing Email](www.urlhere.com) (<i>Cyberchef, AbuseIPDB, MxLookUp, RerverseDNSLookup, SPF & DKIM Check, Proofpoint</i>)
+   - [Analyzing Phishing Email](https://github.com/bayulus/email-phishing-analysis.git) (<i>Cyberchef, AbuseIPDB, MxLookUp, RerverseDNSLookup, SPF & DKIM Check, Proofpoint</i>)
 - **Threat Intelligence Analysis**
 
 <h2>💫🖥️Incident Response Projects </h2>
