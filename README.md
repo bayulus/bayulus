@@ -1,7 +1,7 @@
 <h1>Hi there 👋 , I'm Olabisi!</h1>
 <img src="https://gitlab.com/bayulus/images/-/raw/main/gitbanner.png" >
 
-<p>I am a Cybersecurity Analyst with a proven track record in safeguarding organizations against cyber threats. Proficient in network security, vulnerability assessments, and incident response. Hands-on experience in DevSecOps and expertise in cloud security. Skilled in analyzing security logs and implementing robust security measures. Proactively stays updated on emerging threats. Collaborative team player with technical support experience in a Managed Service Provider (MSP) environment. I'm Committed to continuous learning and ready to contribute expertise to fortify organizational defenses.</p>
+<p>I am a Cybersecurity Analyst with a proven track record in safeguarding organizations against cyber threats. Proficient in network security, vulnerability assessments, and incident response. Hands-on experience in DevSecOps and expertise in cloud security. Skilled in analyzing security logs and implementing robust security measures. Proactively stays updated on emerging threats. Collaborative team player with technical support experience in a Managed Service Provider (MSP) environment. I'm committed to continuous learning and ready to contribute expertise to fortify organizational defenses.</p>
 <br>
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
