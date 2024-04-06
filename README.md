@@ -59,8 +59,8 @@
 
 <h2>🔄 Other Projects:</h2>
 
-- <b>TCP/IP Three-Way Handshake</b>
-    - [Practical Demonstration of The Syn > SynAck > Ack Flag of TCP/IP](https://github.com/bayulus/TCP-IP-Handshake)
+- <b>TCP/IP Three-Way Handshake Practical Demonstration(SYN | SYNACK | ACK)</b>
+    - [TCP/IP Three-Way Handshake](https://github.com/bayulus/TCP-IP-Handshake)
 
 
 <b><h2>🤳📩Connect With Me</h2></b> 
