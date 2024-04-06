@@ -57,6 +57,10 @@
 - [I am presently working on investigating malware threat](here)
 
 
+<h2>🔄 Other Projects:</h2>
+
+- <b>TCP/IP Three-Way Handshake</b>
+    - [Practical Demonstration of The Syn > SynAck > Ack Flag of TCP/IP](https://github.com/bayulus/TCP-IP-Handshake)
 
 
 <b><h2>🤳📩Connect With Me</h2></b> 
