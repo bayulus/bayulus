@@ -57,7 +57,7 @@
 - [I am presently working on investigating malware threat](here)
 
 
-<h2>🔄 Other Projects:</h2>
+<h2>🔄 Practical Demonstration:</h2>
 
 - <b>TCP/IP Three-Way Handshake Practical Demonstration(SYN | SYNACK | ACK)</b>
     - [TCP/IP Three-Way Handshake](https://github.com/bayulus/TCP-IP-Handshake)
