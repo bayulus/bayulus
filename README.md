@@ -50,7 +50,8 @@
    - [Creating Honeynet Using Azure Sentinel](https://github.com/bayulus/azure-honeynet-livetraffic.git)
 -  <b>Investigating Email Threat</b>
    - [Analyzing Phishing Email](https://github.com/bayulus/email-phishing-analysis.git) (<i>Cyberchef, AbuseIPDB, MxLookUp, RerverseDNSLookup, SPF & DKIM Check, Proofpoint</i>)
-- **Threat Intelligence Analysis**
+- **Intrusion Detection System**
+    - [I am presently working on Building an Intrusion Detection System with Snort](here)
 
 <h2>💫🖥️Incident Response Projects </h2>
 
