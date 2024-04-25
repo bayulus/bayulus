@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Olabisi%20Olajide-blue?style=flat-square&logo=twitter&label=Twitter)](https://twitter.com/realbayulus)
 <br>
 
-💻 **Languages and Tools:** 🛠️
+💻 **Technological Stacks:** 🛠️
 
 ![Static Badge](https://img.shields.io/badge/Azure%20Sentinel-black?style=flat-square&logo=microsoft&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/Data%20Loss%20Prevention-Microsoft%20Purview-black?style=flat-square&logo=microsoft&labelColor=blue)
