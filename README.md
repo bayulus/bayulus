@@ -63,6 +63,11 @@
 - <b>TCP/IP Three-Way Handshake Practical Demonstration(SYN | SYNACK | ACK)</b>
     - [TCP/IP Three-Way Handshake](https://github.com/bayulus/TCP-IP-Handshake)
 
+<h2>📝 Governance, Risk and Compliance</h2>
+
+- <b>ISO 27001 Implementation</b>
+  - [ISMS Scope Sample](https://github.com/bayulus/GRC/blob/main/ISMS%20SCOPE.pdf)
+
 
 <b><h2>🤳📩Connect With Me</h2></b> 
 [![Linkedin](https://img.shields.io/badge/Olabisi%20Olajide-blue?style=flat-square&logo=Linkedin&label=Linkedin)](https://www.linkedin.com/in/bayulus/)
