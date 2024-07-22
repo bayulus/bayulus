@@ -51,7 +51,7 @@
 -  <b>Investigating Email Threat</b>
    - [Analyzing Phishing Email](https://github.com/bayulus/email-phishing-analysis.git) (<i>Cyberchef, AbuseIPDB, MxLookUp, RerverseDNSLookup, SPF & DKIM Check, Proofpoint</i>)
 -  <b>Hands-On Lab: Implementing Active Directory and Automating User Creation With Powershell </b>
-   - [Azure Active Directory Lab](https://github.com/bayulus/azuread.git)
+   - [Active Directory Home Lab](https://github.com/bayulus/azuread.git)
 - <b>Intrusion Detection System</b>
     - [I am presently working on Building an Intrusion Detection System with Snort](here)
 
