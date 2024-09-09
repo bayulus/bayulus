@@ -57,6 +57,9 @@
 
 <h2>💫🖥️Incident Response Projects </h2>
 
+- <b>Building a (SOC) on VULTR with ELK Stack + Fleet Server + Real-Time Threat Detection & Incident Response</b>
+    - [Using Elastic, Logstash, and Kibana For Visualizing and Analyzing Threat](https://github.com/bayulus/SOC-ELK-IR-ThreatDetection)
+
 - [I am presently working on investigating malware threat](here)
 
 
