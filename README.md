@@ -48,8 +48,6 @@
   -  [DevSecOps Pipeline Using AWS Cloud Infrastrusture](https://github.com/bayulus/devsecops-jenkins-aws)
 -  <b>Creating a Security Operations Center (SOC) With a Honeynet In Azure to Analyze Live Traffic</b>
    - [Creating Honeynet Using Azure Sentinel](https://github.com/bayulus/azure-honeynet-livetraffic.git)
--  <b>Investigating Email Threat</b>
-   - [Analyzing Phishing Email](https://github.com/bayulus/email-phishing-analysis.git) (<i>Cyberchef, AbuseIPDB, MxLookUp, RerverseDNSLookup, SPF & DKIM Check, Proofpoint</i>)
 -  <b>Hands-On Lab: Implementing Active Directory and Automating User Creation With Powershell </b>
    - [Active Directory Home Lab](https://github.com/bayulus/azuread.git)
 - <b>Intrusion Detection System</b>
@@ -59,6 +57,8 @@
 
 - <b>Building a (SOC) on VULTR with ELK Stack + Fleet Server + Real-Time Threat Detection & Incident Response</b>
     - [Using Elastic, Logstash, and Kibana For Visualizing and Analyzing Threat](https://github.com/bayulus/SOC-ELK-IR-ThreatDetection)
+-  <b>Investigating Email Threat</b>
+   - [Analyzing Phishing Email](https://github.com/bayulus/email-phishing-analysis.git) (<i>Cyberchef, AbuseIPDB, MxLookUp, RerverseDNSLookup, SPF & DKIM Check, Proofpoint</i>)
 
 - [I am presently working on investigating malware threat](here)
 
