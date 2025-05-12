@@ -45,26 +45,23 @@
 <h2>💻🔐Cybersecurity Projects:</h2>
 
 - <b>DevSecOps: Integrating Security Testing Into The Software Development Lifecycle</b>
-  -  [DevSecOps Pipeline Using AWS Cloud Infrastrusture](https://github.com/bayulus/devsecops-jenkins-aws)
+  -  [DevSecOps Pipeline Using AWS Cloud Infrastructure](https://github.com/bayulus/devsecops-jenkins-aws)
     
 -  <b>Creating a Security Operations Center (SOC) With a Honeynet In Azure to Analyze Live Traffic</b>
    - [Creating Honeynet Using Azure Sentinel](https://github.com/bayulus/azure-honeynet-livetraffic.git)
      
--  <b>Hands-On Lab: Implementing Active Directory and Automating User Creation With Powershell </b>
+-  <b>Hands-On Lab: Implementing Active Directory and Automating User Creation With PowerShell </b>
    - [Active Directory Home Lab](https://github.com/bayulus/azuread.git)
      
 - <b>Intrusion Detection System</b>
-    - [I am presently working on Building an Intrusion Detection System with Snort](here)
+    - [I am presently working on building an Intrusion Detection System with Snort](here)
 
 <h2>💫🖥️Incident Response Projects </h2>
 
 -  <b>Investigating Email Threat</b>
    - [Analyzing Phishing Email](https://github.com/bayulus/email-phishing-analysis.git) (<i>Cyberchef, AbuseIPDB, MxLookUp, RerverseDNSLookup, SPF & DKIM Check, Proofpoint</i>)
-     
-- <b>Building a (SOC) on VULTR with ELK Stack + Fleet Server + Real-Time Threat Detection & Incident Response</b>
-    - [Using Elasticsearch, Logstash, and Kibana For Visualizing and Analyzing Threat](https://github.com/bayulus/SOC-ELK-IR-ThreatDetection)
 
-- [I am presently working on investigating malware threat](here)
+- [I am presently working on investigating malware threats](here)
 
 
 <h2>🔄 Practical Demonstration:</h2>
