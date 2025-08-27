@@ -40,7 +40,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&labelColor=%23f6f6f6)
 ![Static Badge](https://img.shields.io/badge/ISO%2027001-blue?style=flat-square&labelColor=%23f6f6f6)
 
-<!-- Here is where My project starts from -->
+<!-- Here is where my project starts from -->
 
 <h2>💻🔐Cybersecurity Projects:</h2>
 
@@ -55,6 +55,9 @@
      
 - <b>Intrusion Detection System</b>
     - [I am presently working on building an Intrusion Detection System with Snort](here)
+ 
+ <h2>💫🖥️SOC Analyst Projects </h2>
+ - [Detecting Command Injection Attacks](https://github.com/bayulus/Detecting-Command-Injection-Attacks)
 
 <h2>💫🖥️Incident Response Projects </h2>
 
