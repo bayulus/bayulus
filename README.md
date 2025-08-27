@@ -57,14 +57,14 @@
     - [I am presently working on building an Intrusion Detection System with Snort](here)
  
  <h2>💫🖥️SOC Analyst Projects </h2>
- - [Detecting Command Injection Attacks](https://github.com/bayulus/Detecting-Command-Injection-Attacks)
+ 
+   - [Detecting Command Injection Attacks](https://github.com/bayulus/Detecting-Command-Injection-Attacks)
 
 <h2>💫🖥️Incident Response Projects </h2>
 
--  <b>Investigating Email Threat</b>
    - [Analyzing Phishing Email](https://github.com/bayulus/email-phishing-analysis.git) (<i>Cyberchef, AbuseIPDB, MxLookUp, RerverseDNSLookup, SPF & DKIM Check, Proofpoint</i>)
 
-- [I am presently working on investigating malware threats](here)
+  - [I am presently working on investigating malware threats](here)
 
 
 <h2>🔄 Practical Demonstration:</h2>
